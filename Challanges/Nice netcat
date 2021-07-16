@@ -1,0 +1,21 @@
+https://play.picoctf.org/practice/challenge/156?category=5&page=1
+
+There is a nice program that you can talk to by using this command in a shell
+$ nc mercury.picoctf.net 49039
+
+This command on its own returns a series of numbers. 
+nc: NetCat Arbitrarry TCP and UDP connections and listens
+
+HInt 1 what's a net cat?
+https://play.picoctf.org/practice/challenge/34
+
+use nc to connect to the server
+
+
+Hint 2
+Youc an prace reading and writing ascii with the pico grym problem
+https://play.picoctf.org/practice/challenge/22 (Lets warm up)
+
+
+Convert ASCII charters copy and paste ASCII in the link below
+https://onlineasciitools.com/convert-decimal-to-ascii
