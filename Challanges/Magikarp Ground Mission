@@ -1,0 +1,28 @@
+https://play.picoctf.org/practice/challenge/189?category=5&page=1
+
+Login to webshell
+
+open file
+SSH	ssh ctf-player@venus.picoctf.net -p 56672
+
+-commands now use bash https://devhints.io/bash
+ls: List show
+
+cat instructions-to-2of3.txt
+Next, go to the root of all things, more succinctly 
+
+cat 1of3.flag.txt
+picoCTF{xxsh_
+
+Root 
+cd -
+cat 2of3.flag.txt
+0ut_0f_\/\/4t3r_
+
+Go Home
+cd ~
+ls 
+3of3.flag.txt
+540e4e79}
+
+Flag = picoCTF{xxsh_0ut_0f_\/\/4t3r_540e4e79}
